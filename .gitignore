@@ -1,0 +1,18 @@
+# Secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Output files (generati dai script)
+*.xlsx
+
+# Dataset troppo grandi per git
+database_elo_storico.csv
+data/
+I1.csv
+
+# Virtual environment
+venv/
