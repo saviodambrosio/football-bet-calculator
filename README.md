@@ -91,11 +91,11 @@ This result confirms:
 
 **Backtest terminal output — 3-season ROI summary**
 
-![Backtest terminal output](assets/terminale-backtest.png.png)
+![Backtest terminal output](assets/terminale-backtest.png)
 
 **Live predictor — value bet report (predittore v7)**
 
-![Live predictor value bet report](assets/pronostico-v7.png.png)
+![Live predictor value bet report](assets/pronostico-v7.png)
 
 ---
 

@@ -91,11 +91,11 @@ Questo risultato conferma:
 
 **Output terminale backtest — riepilogo ROI su 3 stagioni**
 
-![Output terminale backtest](assets/terminale-backtest.png.png)
+![Output terminale backtest](assets/terminale-backtest.png)
 
 **Predittore live — report value bet (predittore v7)**
 
-![Predittore live report value bet](assets/pronostico-v7.png.png)
+![Predittore live report value bet](assets/pronostico-v7.png)
 
 ---
 
